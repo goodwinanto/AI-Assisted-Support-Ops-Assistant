@@ -6,7 +6,7 @@ A local AI-powered IT/Ops support assistant built with:
 - Local LLM (Ollama)
 - System diagnostics
 - Decision logic for hardware/software issues
-- ChatGPT-style web UI
+- Web-based conversational interface
 
 ## Features
 
